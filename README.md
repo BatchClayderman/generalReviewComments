@@ -198,6 +198,7 @@ While I appreciate the revision made by the authors, I would like to remind the 
 
 ### 接受审稿邀请
 
+```
 Dear Editors, 
 
 Thank you for your invitation and trust in me. 
@@ -207,9 +208,11 @@ Best regards.
 
 Yours sincerely, 
 ..., ...
+```
 
 ### 审稿完成
 
+```
 Dear Editors, 
 
 Thank you for your invitation and trust in me. 
@@ -221,9 +224,11 @@ Best regards.
 
 Yours sincerely, 
 ..., ...
+```
 
 ### 收到审稿证书
 
+```
 Dear Editors, 
 
 Thank you so much for the review certificate. 
@@ -233,3 +238,4 @@ Best regards.
 
 Yours sincerely, 
 ..., ...
+```
