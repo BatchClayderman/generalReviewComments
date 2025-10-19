@@ -54,13 +54,17 @@ The Conclusion section is a little long and includes subsections. Normally, ther
 
 An academic paper should at least include, from the beginning to the end, an abstract, an Introduction section, a Related Work section, a Methodology section, an Experiments section, a Results and Discussion section, a Conclusion section, some appendix sections, and a References section. For the sections between the Introduction section and the Conclusion section, there should be subsections. 
 
+### 未添加伦理审查
+
+Please add ethical consideration statements, as this paper involves data from human bodies. 
+
 ### 综述只“综”不“述”
 
 A review should investigate the development of a specified topic, make comparisons between different methodologies in this field, vividly describe the current state-of-the-art methods, and propose possible future research directions. 
 
-### 未添加伦理审查
+### 机翻味重
 
-Please add ethical consideration statements, as this paper involves data from human bodies. 
+The English is not well-written. Some English expressions read like results of machine translation. 
 
 ## 多媒体问题
 
@@ -71,6 +75,10 @@ The figures are not clear enough. Please improve their quality and resolution.
 ### 图是软件截图
 
 Normally, screenshots of software are not allowed in academic writing. 
+
+### 图太过鲜艳
+
+The color matching of some figures is too sharp. Please use mild colors. 
 
 ### 图中文字的字体与普通文本中文字的字体不一致
 
@@ -185,6 +193,16 @@ The in-text citation markers are not used correctly. Initially, the in-text cita
 ### 引文过时
 
 Please cite more references published in the last 3 years. Please also make a full investigation and discuss them. 
+
+## 期刊需求
+
+### 没有高光
+
+As suggested by the journal, the authors need to enumerate some highlights. The expressions of the highlights should be different from the contributions listed at the end of the Introduction section. 
+
+### 没有图形学摘要
+
+As suggested by the journal, the authors need to provide a graphical abstract. 
 
 ## 回复审稿人问题
 
