@@ -34,6 +34,10 @@ Please use brackets large enough to cover the fraction structure.
 
 For symbols representing variables, they should be in mathematical italics. In other words, letters in a variable should be in italics. 
 
+### 角标不正确
+
+Places that require superscripts (including superscripts and subscripts) should use superscripts correctly. 
+
 ### 变量直接使用英文单词
 
 For variables consisting of multiple letters, please consider using a simple single-letter or single-Greek letter to represent, with a number in the lower right corner to distinguish if necessary. Otherwise, please make the variables in text italics (using "\textit{}" in the mathematics environments in LaTeX). 
@@ -194,7 +198,7 @@ Regarding a caption of a figure or a table, there should be a colon and a space 
 
 ### 子图没有子标题
 
-Regarding the figures containing subplots, for each subplot, there should be a caption below it, consisting of a marker (like (a), (b), and (c)) and a description connected by a space character. The caption of each subplot should be editable outside the subplot instead of being embedded in the subplot. 
+Regarding the figures containing subplots, for each subplot, there should be a caption below it, consisting of a marker (like (a), (b), and (c)) and a description connected by a space character. The caption of each subplot should be editable outside the subplot instead of being embedded in the subplot. The authors can retain the descriptions marked (a), (b), (c), etc. in the main captions of the figures. 
 
 ### 未使用三线表
 
