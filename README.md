@@ -34,10 +34,6 @@ Please use brackets large enough to cover the fraction structure.
 
 For symbols representing variables, they should be in mathematical italics. In other words, letters in a variable should be in italics. 
 
-### 角标不正确
-
-Places that require superscripts (including superscripts and subscripts) should use superscripts correctly. 
-
 ### 变量直接使用英文单词
 
 For variables consisting of multiple letters, please consider using a simple single-letter or single-Greek letter to represent, with a number in the lower right corner to distinguish if necessary. Otherwise, please make the variables in text italics (using "\textit{}" in the mathematics environments in LaTeX). 
@@ -49,6 +45,10 @@ The in-line equations are not properly formatted. When reading, they may be abru
 ### 行间公式规范下接变量解释不规范
 
 If the variables in the equations are to be explained on the next line, the explanation should be preceded by the word "where" written at the beginning of the line without space characters and in lowercase. 
+
+### 角标不正确
+
+Places that require superscripts (including superscripts and subscripts) should use superscripts correctly. 
 
 ## 写作风格
 
@@ -117,6 +117,22 @@ Thank you for your invitation and trust in me.
 The review is finished, and the report is attached. 
 I am willing to review the paper again if there is any future review. 
 By the way, I would appreciate it if I could have a review certificate. 
+Looking forward to our next cooperation. 
+Best regards. 
+
+Yours sincerely, 
+..., ...
+```
+
+### 审稿邀请已被他人接受并完成
+
+```
+Dear Editors, 
+
+Thanks for your invitation and trust in me. 
+The others seem to have submitted the comments before I am about to accept your invitation. 
+The system writes me that the review is finished after I open the link. 
+Should you have further review invitations, please do not hesitate to contact me. 
 Looking forward to our next cooperation. 
 Best regards. 
 
