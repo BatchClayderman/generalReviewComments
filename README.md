@@ -96,6 +96,10 @@ The abbreviations of the academic terms are not used correctly. Each academic te
 
 The Conclusion section is a little long and includes subsections. Normally, there should be no subsections in the Conclusion section. Please consider creating a subsection entitled Summary in the Results and Discussion section, moving the content of the current Conclusion section to the Summary subsection, and inserting a new Conclusion section after the Results and Discussion section with brief paragraphs concluding the whole work and presenting possible future research directions. 
 
+### 结论局限性多于优势
+
+Writing limitations more than conclusions will make reviewers feel that the contributions are overshadowed by the shortcomings. This imbalance may create a negative final impression, suggesting that the work is defined more by what it failed to do than by what it successfully accomplished. It may further make the research appear tentative, incomplete, or lacking in confidence and forward momentum. 
+
 ### 综述只“综”不“述”
 
 A review should investigate the development of a specified topic, make comparisons between different methodologies in this field, vividly describe the current state-of-the-art methods, and propose possible future research directions. 
@@ -204,6 +208,10 @@ A caption of a figure should be put after the figure body.
 
 Figures and tables should be placed below the paragraph where they are first referenced, if possible. 
 
+### 图片脚注格式不正确
+
+The footnotes of the figures are not typeset well. Please directly explain the figures at the end of the captions of the figures. 
+
 ### 图表未被显式引用
 
 The paper presents some figures and tables, but some of them are not referenced explicitly by statements in the plain text. 
@@ -227,6 +235,10 @@ Please make the tables editable. Using screenshots as tables is not allowed.
 ### 表标题位置不正确
 
 A caption of a table should be put before the table body. 
+
+### 表格脚注格式不正确
+
+The footnotes of the tables are not typeset well. Please ensure that all footnotes use a consistent smaller font size compared to the table body, and that they correctly correspond to the things required to be explained. The footnotes are aligned to the left of the document or the column. Identifiers (symbols or numbers) in the footnotes are aligned with the last character of the identifier. There is a space between the identifier and the explanation of the identifier, and these spaces are also aligned. Using the ``threeparttable`` environment is a satisfying choice if LaTeX is used for formatting. Otherwise, please consider moving all the footnotes of the tables to the end of the captions. Nonetheless, this is not a good choice. 
 
 ## 引用问题
 
