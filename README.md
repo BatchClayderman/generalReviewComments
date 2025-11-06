@@ -264,6 +264,10 @@ The paper uses a lot of semicolons. Since there is still disagreement on the use
 
 The formatting of multiple paragraphs seems incorrect. There are two formats for writing multiple paragraphs. To use the indented writing style, the first paragraph is not indented, and each paragraph from the second onwards is left with three spaces at the beginning, with no blank lines between paragraphs. To use the aligned style, there is no space at the beginning of a paragraph (top-aligned), but there is a blank line between paragraphs. 
 
+### 引号格式不统一
+
+Some quotation marks are straight, and some are curved. Please standardize the quotation mark format. 
+
 ### 括号排版不正确
 
 Please always remember that any bracket (including but not limited to curly brackets, square brackets, parentheses, and equations enclosed by a pair of $) should be treated as a whole and typeset as a single word in the paper. Here are some examples. Hope they can benefit. 
