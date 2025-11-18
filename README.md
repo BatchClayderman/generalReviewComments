@@ -76,6 +76,10 @@ Please list the contributions and subsequently provide the structure statements 
 
 The Abstract lacks quantitative results. Key findings should be presented in the form of quantitative outcomes to strengthen their impact at the end of the Abstract. 
 
+### 文章存在枚举
+
+There are many enumerations in this paper, which makes the paper not sound academic. Please reduce the usage of enumerations. 
+
 ### 无学术写作结构
 
 This paper does not follow the academic writing standards. Please use sections and subsections with clear hierarchical sequence numbers in their titles to structure this paper. 
@@ -300,9 +304,13 @@ This is an orange  (color)  orange. -> Incorrect
 
 The font family used in this paper seriously affects readers' reading. Please consider changing the font family. It is recommended to use "Times New Roman" as the font family. 
 
+### 曲引号前后引号使用不正确
+
+The paper uses curved quotation marks. However, the opening and closing quotation marks are not written correctly. Please use the correct directional quotation marks to express the opening and closing quotation marks. 
+
 ### 标点符号后面未加空格
 
-When a non-prefix punctuation symbol such as a period, comma, semicolon, or colon is followed by a word or letter, there should be and only should be one space character between the punctuation symbol and the following word or letter. 
+When a non-prefix punctuation symbol, such as a period, comma, semicolon, or colon, is followed by a word or letter, there should be and only should be one space character between the punctuation symbol and the following word or letter. 
 
 ## 期刊需求
 
