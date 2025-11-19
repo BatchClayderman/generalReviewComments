@@ -244,6 +244,16 @@ A caption of a table should be put before the table body.
 
 The footnotes of the tables are not typeset well. Please ensure that all footnotes use a consistent smaller font size compared to the table body, and that they correctly correspond to the things required to be explained. The footnotes are aligned to the left of the document or the column. Identifiers (symbols or numbers) in the footnotes are aligned with the last character of the identifier. There is a space between the identifier and the explanation of the identifier, and these spaces are also aligned. Using the ``threeparttable`` environment is a satisfying choice if LaTeX is used for formatting. Otherwise, please consider moving all the footnotes of the tables to the end of the captions. Nonetheless, this is not a good choice. 
 
+## 实验
+
+### 没有提供实验环境
+
+Please provide experimental environments. 
+
+### 评估指标没有公式或没有打箭头
+
+The authors use multiple evaluation metrics to evaluate and compare different methods. However, some evaluation metrics are better the higher the value, while others are better the lower the value. The authors should provide the formulas for these evaluation metrics and mark each evaluation metric with an up or down arrow accordingly to the right of it in the table header. 
+
 ## 引用问题
 
 ### 引文过时
