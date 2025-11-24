@@ -222,7 +222,7 @@ The paper presents some figures and tables, but some of them are not referenced 
 
 ### 图表标题序号和描述之间没有冒号或空格
 
-Regarding a caption of a figure or a table, there should be a colon and a space between the number of the table and the description in the caption. 
+Each figure caption consists of a figure number and a figure title. Each table caption consists of a table number and a table title. Regarding a caption of a figure or a table, there should be a colon with a space character or a period with a space character between the number of the table and the title in the caption. For example, "Fig. 1: This is a figure. " is a good caption of a figure. 
 
 ### 子图没有子标题
 
