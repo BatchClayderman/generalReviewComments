@@ -104,6 +104,10 @@ The Conclusion section is a little long and includes subsections. Normally, ther
 
 Writing limitations more than conclusions will make reviewers feel that the contributions are overshadowed by the shortcomings. This imbalance may create a negative final impression, suggesting that the work is defined more by what it failed to do than by what it successfully accomplished. It may further make the research appear tentative, incomplete, or lacking in confidence and forward momentum. 
 
+### 结论没有展望
+
+The paper should strive for objectivity. The authors should consider analyzing the limitations of this paper and proposing some possible future research directions based on those limitations at the end of the Conclusion section. 
+
 ### 综述只“综”不“述”
 
 A review should investigate the development of a specified topic, make comparisons between different methodologies in this field, vividly describe the current state-of-the-art methods, and propose possible future research directions. 
