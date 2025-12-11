@@ -64,6 +64,10 @@ The "Key words" should be written as "keywords". There should be no space charac
 
 The keywords are not typeset uniformly. While keeping the professional writing of the academic terms, please capitalize the first letter of each keyword, or capitalize the first letter of the first word and all the content words of each keyword. 
 
+### 关键词数量太多
+
+Too many keywords are provided. Please reduce the number of keywords. 
+
 ### 引言写得不好
 
 The Introduction section is not well-written. The Introduction section should briefly contain the related background, the limitations of the current existing (state-of-the-art) methods, research motivation, proposed methodologies, research contributions, and the paper's structure statements. 
@@ -91,6 +95,10 @@ Please add ethical consideration statements, as this paper involves data from hu
 ### 机翻味重
 
 The English is not well-written. Some English expressions read like results of machine translation. 
+
+### 章节标题没有序号
+
+There should be an order number at the beginning of each section and subsection title. 
 
 ### 简称使用不当
 
@@ -212,6 +220,10 @@ Normally, screenshots of software are not allowed in academic writing.
 
 A caption of a figure should be put after the figure body. 
 
+### 图没有标题
+
+A caption should be offered after each figure. 
+
 ### 图片和表格应当尽可能放置在首次被提及的段落下方
 
 Figures and tables should be placed below the paragraph where they are first referenced, if possible. 
@@ -248,6 +260,10 @@ A caption of a table should be put before the table body.
 
 The footnotes of the tables are not typeset well. Please ensure that all footnotes use a consistent smaller font size compared to the table body, and that they correctly correspond to the things required to be explained. The footnotes are aligned to the left of the document or the column. Identifiers (symbols or numbers) in the footnotes are aligned with the last character of the identifier. There is a space between the identifier and the explanation of the identifier, and these spaces are also aligned. Using the ``threeparttable`` environment is a satisfying choice if LaTeX is used for formatting. Otherwise, please consider moving all the footnotes of the tables to the end of the captions. Nonetheless, this is not a good choice. 
 
+### 表没有标题
+
+A caption should be offered before each table. 
+
 ## 实验
 
 ### 没有提供实验环境
@@ -263,6 +279,10 @@ The authors use multiple evaluation metrics to evaluate and compare different me
 ### 引文过时
 
 Please cite more references published in the last 3 years. Please also make a full investigation and discuss them. 
+
+### 文章有参考文献但未在正文显示引用
+
+While the paper has offered a reference list at the end of the paper, they are not cited in the text. The authors should cite all the references in the text, where their in-text views and statements that need to be supported can be supported by the references cited near them. 
 
 ### 正文中三人或以上的作者书写不正确
 
@@ -313,6 +333,14 @@ This is an orange  (color)orange. -> Incorrect
 This is an orange  (color) orange. -> Incorrect
 This is an orange  (color)  orange. -> Incorrect
 ```
+
+### 文本出现了多个空格字符
+
+There are two or more continuous space characters in the text. Please use one space character only. 
+
+### 文本应使用两端对齐而非左对齐
+
+The text should be justified (aligned to both margins) rather than left-aligned. 
 
 ### 文章字体导致文章难以阅读
 
