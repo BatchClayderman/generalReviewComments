@@ -252,6 +252,10 @@ Each figure caption consists of a figure number and a figure title. Each table c
 
 Regarding the figures containing subplots, for each subplot, there should be a caption below it, consisting of a marker (like (a), (b), and (c)) and a description connected by a space character. The caption of each subplot should be editable outside the subplot instead of being embedded in the subplot. The authors can retain the descriptions marked (a), (b), (c), etc. in the main captions of the figures. 
 
+### 子图被嵌为一个大图
+
+If a figure includes multiple subplots, please submit the source files for each subplot separately, rather than a single source file combining, concatenating, or embedding all the subplots into one large figure, to the journal. 
+
 ### 未使用三线表
 
 Please use the three-line table format to format the tables. If comparison is involved, please make the optimal values of each comparison group in bold. 
