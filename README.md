@@ -56,6 +56,14 @@ Places that require superscripts (including superscripts and subscripts) should 
 
 The title of the superstructure cannot be directly connected to the title of the subordinate structure. Please add an introductory paragraph between the two. 
 
+### 全文没有量化数据
+
+There are no quantitative data throughout the paper, which is not acceptable in academic papers. Please use adequate quantitative data to support the findings. 
+
+### 全文量化数据太少
+
+Please provide more quantitative data. 
+
 ### 关键词声明不正确
 
 The "Key words" should be written as "keywords". There should be no space characters between the "Keywords" and the colon after it. 
