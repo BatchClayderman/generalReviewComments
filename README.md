@@ -32,7 +32,7 @@ Please use brackets large enough to cover the fraction structure.
 
 ### 变量未以数学形式倾斜
 
-For symbols representing variables, they should be in mathematical italics. In other words, letters in a variable should be in italics. 
+For symbols representing variables, they should be in mathematical italics. In other words, single-letter variables should be in italics, and variables containing multiple letters should be made in textual italics. 
 
 ### 变量直接使用英文单词
 
