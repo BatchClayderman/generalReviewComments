@@ -112,10 +112,6 @@ The English is not well-written. Some English expressions read like results of m
 
 There should be an order number at the beginning of each section and subsection title. 
 
-### 简称使用不当
-
-The abbreviations of the academic terms are not used correctly. Each academic term should be given its full name with the corresponding abbreviation when it first appears in each section, followed by its abbreviation. 
-
 ### 结论太长
 
 The Conclusion section is a little long and includes subsections. Normally, there should be no subsections in the Conclusion section. Please consider creating a subsection entitled Summary in the Results and Discussion section, moving the content of the current Conclusion section to the Summary subsection, and inserting a new Conclusion section after the Results and Discussion section with brief paragraphs concluding the whole work and presenting possible future research directions. 
@@ -131,6 +127,10 @@ The paper should strive for objectivity. The authors should consider analyzing t
 ### 综述只“综”不“述”
 
 A review should investigate the development of a specified topic, make comparisons between different methodologies in this field, vividly describe the current state-of-the-art methods, and propose possible future research directions. 
+
+### 缩写或简称使用不当
+
+The abbreviations of the academic terms are not used correctly. Each academic term whose abbreviation is going to be used frequently in a section should be given its full name, followed by its abbreviation in a pair of parentheses, when it first appears in that section. Subsequently, please always use the abbreviation throughout that section. 
 
 ### 缺乏重要 Section
 
