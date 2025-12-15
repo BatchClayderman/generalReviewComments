@@ -1,5 +1,6 @@
 import os
 from sys import argv, exit
+from time import sleep
 try:
 	os.chdir(os.path.abspath(os.path.dirname(__file__)))
 except:
@@ -77,10 +78,19 @@ class Arranger:
 			return False
 
 def main() -> int:
+	warningTime = 3
 	argc = len(argv)
 	if argc >= 3:
 		arranger = Arranger(argv[1], argv[2])
 		iRet = EXIT_SUCCESS if arranger.load() and arranger.dump() else EXIT_FAILURE
+	elif 2 == argc:
+		print("The script will process the file in place within {0} second(s). ".format(warningTime))
+		try:
+			sleep(warningTime)
+			arranger = Arranger(argv[1], argv[1])
+			iRet = EXIT_SUCCESS if arranger.load() and arranger.dump() else EXIT_FAILURE
+		except:
+			iRet = EOF
 	else:
 		print("Nothing to handle. Please use the command line to specify the input and output files. ")
 		iRet = EOF

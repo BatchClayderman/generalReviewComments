@@ -14,6 +14,10 @@
 
 ## 公式问题
 
+### 公式与上下文不衔接
+
+The equations should be consistent with the context. In other words, each equation should be regarded as a part of the sentence. The punctuation mark at the end of the last statement before the equation should connect the statement and the equation smoothly, if there is. The punctuation mark at the end of the equation should correctly connect the equation and the following statement. 
+
 ### 公式太长
 
 If the equation cannot be written on one line with the equation marker, please insert a line break before the appropriate plus or minus sign and ensure that the left side of all lines starting from the second line does not extend beyond the leftmost side of the first line. 
@@ -42,7 +46,7 @@ For variables consisting of multiple letters, please consider using a simple sin
 
 The in-line equations are not properly formatted. When reading, they may be abrupt, which may affect readers' experience. 
 
-### 行间公式规范下接变量解释不规范
+### 行间公式下接变量解释不规范
 
 If the variables in the equations are to be explained on the next line, the explanation should be preceded by the word "where" written at the beginning of the line without space characters and in lowercase. 
 
