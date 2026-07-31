@@ -93,6 +93,10 @@ There are many short paragraphs. Please consider merging some of them.
 
 There seem to be some short titles in stand-alone lines. I agree that those should not be made subsubsection titles. Meanwhile, I would like to recommend making each of them the first sentence of its following paragraph. 
 
+### 实验未提供数据集、数据集链接或数据描述难以复现
+
+There are no datasets, links to datasets, or data surveys in the experiments, which makes it hard to reproduce. 
+
 ### 实验没有提供实验环境
 
 Please provide experimental environments, which are recommended to be written as the first subsection of the Experiments section. 
@@ -504,9 +508,21 @@ A caption should be offered before each table.
 
 ## 引用问题
 
+### 参考文献仅涵盖近三年文献
+
+I appreciate that the authors have made a full investigation of the state-of-the-art research, where all the references cited were published in the last 3 years. However, I am concerned that the authors might have left out earlier classic literature. Therefore, I recommend that the authors cite some classic literature to briefly discuss the development of the research direction of this paper. 
+
 ### 参考文献列表格式不统一
 
 The styles of the references in the reference list are not uniform. Please use only one style (e.g., GB/T, APA, or MPA) throughout the paper. Except for the online resource citations, please keep or remove the links uniformly. 
+
+### 参考文献未正确区分大小写或使用了全大写
+
+Please check the cases of the letters in the author names, paper titles, and publication names in the reference list. 
+
+### 参考文献过时
+
+Please cite more references published in the last 3 years and conduct an up-to-date investigation. Subsequently, please update the background statements in this paper. 
 
 ### 参考文献风格序号使用的括号不是方括号
 
@@ -515,14 +531,6 @@ Regarding the reference list, it does not appear to be a publicly acknowledged o
 ### 在线资源引用格式不正确
 
 Please use the correct citation format to cite the online resources. 
-
-### 引文未正确区分大小写或使用了全大写
-
-Please check the cases of the letters in the author names, paper titles, and publication names in the reference list. 
-
-### 引文过时
-
-Please cite more references published in the last 3 years and conduct an up-to-date investigation. Subsequently, please update the background statements in this paper. 
 
 ### 引用了 arxiv 或其它 preprint 的文献
 
