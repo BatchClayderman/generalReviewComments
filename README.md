@@ -149,6 +149,14 @@ Please capitalize the first letter after the colon in the title of the paper.
 
 As for the paper title, the authors should either capitalize the first letter of each content word or capitalize the first letter of the title and the first letter after the period, the question mark, and the colon. Please note that proper academic terms with established capitalization conventions should always retain their original letter casing, regardless of their position in a sentence. 
 
+### 文章标题太长
+
+The title is too long. Please shorten the title. A recommended maximum word count is 15. 
+
+### 文章标题未使用陈述语气（使用了疑问、反问或设问语气）
+
+The current paper title contains an interrogative, rhetorical, or hypophora tone. I suggest revising it into a declarative or nominal form that conveys the study's focus or central claim. 
+
 ### 文章英语表达欠佳难以理解
 
 The manuscript contains numerous typographical errors, inconsistent formatting, wordy expressions, and incomplete sentences. It is very challenging for readers to follow the paper. A thorough language and formatting revision is required. 
@@ -160,10 +168,6 @@ This paper does not follow the academic writing standards. Please use sections a
 ### 机翻味重
 
 The English is not well-written. Some English expressions read like results of machine translation. 
-
-### 标题太长
-
-The title is too long. Please shorten the title. A recommended maximum word count is 15. 
 
 ### 没有关键词
 
@@ -437,6 +441,10 @@ Regarding the figures containing subplots, for each subplot, there should be a c
 Regarding figures containing subplots, the authors are suggested to restructure the multi-panel layout. Please align all subfigures and their corresponding sub-captions prefixed with labels (a), (b), (c), etc., to the horizontal and vertical center of their allocated cell of a centered grid. The overall figure caption should be placed at the very bottom, below all sub-figures, to ensure a professional and legible presentation. 
 
 If the authors do not know how to typeset, please submit the source files for each subplot separately, rather than a single source file combining, concatenating, or embedding all the subplots into one large figure, to the journal. 
+
+### 多媒体体例不统一
+
+A caption for a figure and a table should either be a complete sentence or a noun phrase (or descriptive phrase) without a period. Please ensure consistency in the captions. 
 
 ### 多媒体元素序号和标题之间没有冒号或句号
 
