@@ -21,7 +21,7 @@
 
 ### 使用了不正规的邮箱
 
-The current emails used for academic paper submission are informal. Please try to use institute-qualified emails. If it is difficult to use institute-qualified emails, anyway, a better way would be to use Gmail, where the email address should start with an English letter, and the length of the email address should be appropriate. 
+The current emails used for academic paper submission are informal. Please try to use institute-qualified emails. If it is difficult to use institute-qualified emails, a better way would be to use Gmail, where the email address should start with an English letter, and the length of the email address should be appropriate. 
 
 ### 双盲同行评审文章暴露姓名单位
 
@@ -29,7 +29,7 @@ While the paper was sent for a double-blind peer review, it exposes the names an
 
 ### 返修提交态度不认真
 
-While I appreciate the revisions made by the authors, I would like to remind them of the point-to-point response to the reviewers. That is, each corresponding response should have more words than each comment for most comments. It will be more polite and better reflect the authors' serious attitude, compared with the situation where each response has fewer words than the corresponding comment for all comments. 
+While I appreciate the revisions made by the authors, I would like to remind them of the point-by-point response to the reviewers. That is, each corresponding response should have more words than each comment for most comments. It will be more polite and better reflect the authors' serious attitude, compared with the situation where each response has fewer words than the corresponding comment for all comments. 
 
 ## 写作风格
 
@@ -43,7 +43,7 @@ The title of the superstructure cannot be directly connected to the title of the
 
 ### 交叉学科文章写作风格混乱没有侧重
 
-This paper is interdisciplinary research. If it is more likely an engineering topic, the authors should consider using the writing style of an engineering research paper to conduct the writing and consider submitting the paper to a journal covering engineering topics. Otherwise, the authors should focus on explaining the principles by regarding engineering methods as tools for proving their findings. 
+This paper is interdisciplinary research. If it is more likely an engineering topic, the authors should consider using the writing style of an engineering research paper to conduct the writing and consider submitting the paper to a journal covering engineering topics. Otherwise, the authors should focus on explaining the principles by treating engineering methods as tools for proving their findings. 
 
 ### 使用了不正规的序数词进行枚举
 
@@ -59,7 +59,7 @@ Please provide more quantitative data.
 
 ### 关键词声明不正确
 
-The "Key words" should be written as "Keywords". There should be no spaces between the "Keywords" and the colon after it. 
+The "Key words" should be written as "Keywords". There should be no space characters between the word "Keywords" and the colon after it. There should be one, and only one, space character between the colon after the word "Keywords" and the first keyword. 
 
 ### 关键词大小写不匹配
 
@@ -71,7 +71,7 @@ Too many keywords are provided. Please reduce the number of keywords.
 
 ### 分节过于频繁
 
-Some sections are divided into too many subsections, resulting in too little content in each subsection. Please reorganize the section and subsection structures. 
+Some sections are divided into too many subsections, resulting in too little content in each subsection. Please reorganize the sections and subsections. 
 
 ### 国际期刊出现意义不明的中文
 
@@ -95,15 +95,15 @@ There seem to be some short titles in stand-alone lines. I agree that those shou
 
 ### 实验未提供数据集、数据集链接或数据描述难以复现
 
-There are no datasets, links to datasets, or data surveys in the experiments, which makes it hard to reproduce. 
+There are no datasets, links to datasets, or data descriptions in the experiments, which makes it hard to reproduce. 
 
 ### 实验没有提供实验环境
 
-Please provide experimental environments, which are recommended to be written as the first subsection of the Experiments section. 
+Please provide the experimental environments, which are recommended to be written as the first subsection of the Experiments section. 
 
 ### 实验评估指标没有公式或没有打箭头
 
-The authors use multiple evaluation metrics to evaluate and compare different methods. However, some evaluation metrics are better the higher the value, while others are better the lower the value. The authors should provide the formulas for these evaluation metrics and mark each evaluation metric with an up or down arrow accordingly to the right of it in the table header. 
+I appreciate that the authors use multiple evaluation metrics to evaluate and compare different methods. However, some evaluation metrics are better when the value is higher, while others are better when the value is lower. The authors should provide the formulas for these evaluation metrics and mark each evaluation metric with an up or down arrow accordingly to the right of it in the table header. 
 
 ### 引言写得不好
 
@@ -127,11 +127,11 @@ The Abstract lacks quantitative results. Key findings should be presented in the
 
 ### 文章存在大量不明符号
 
-There are too many alternative symbols used in this paper. If these symbols are written on purpose, please use the superscript or subscript format to format them and explain them. 
+There are too many alternative symbols used in this paper. If these symbols are written on purpose, please use superscript or subscript format to format them and explain them. 
 
 ### 文章存在枚举
 
-There are many enumerations in this paper, which makes the paper not sound academic. Please reduce the usage of enumerations. 
+There are many enumerations in this paper, which makes the paper sound less academic. Please reduce the use of enumerations. 
 
 ### 文章存在独句成段现象
 
@@ -163,15 +163,15 @@ The manuscript contains numerous typographical errors, inconsistent formatting, 
 
 ### 无学术写作结构
 
-This paper does not follow the academic writing standards. Please use sections and subsections with clear hierarchical sequence numbers in their titles to structure this paper. 
+This paper does not follow academic writing standards. Please use sections and subsections with clear hierarchical sequence numbers in their titles to structure this paper. 
 
 ### 机翻味重
 
-The English is not well-written. Some English expressions read like results of machine translation. 
+The English is not well written. Some English expressions read like the result of machine translation. 
 
 ### 没有关键词
 
-Please offer the keywords of this paper after the Abstract. 
+Please provide the keywords of this paper after the Abstract. 
 
 ### 涉及人体数据但未没有伦理审查声明
 
@@ -234,7 +234,7 @@ This paper suffers from a problem with its writing style and structure, specific
 ```
 Dear Editors, 
 
-Thanks for the invitation and for your trust in me. 
+Thank you for the invitation and for your trust in me. 
 The review is finished, and the report is attached. 
 I am willing to review the paper again if there is a future review. 
 By the way, I would appreciate it if I could have a review certificate. 
@@ -250,9 +250,9 @@ Yours sincerely,
 ```
 Dear Editors, 
 
-Thanks for the invitation and for your trust in me. 
+Thank you for the invitation and for your trust in me. 
 Before I can accept your invitation and submit my review comments, the number of reviewers who have accepted the invitation or have even submitted their comments seems adequate. 
-After I log in to the system via the link today, the system tells me that the review request for this paper is no longer needed. 
+After I logged in to the system via the link today, the system told me that the review request for this paper is no longer needed. 
 Should you have further review invitations, please do not hesitate to contact me. 
 Looking forward to our next collaboration. 
 Best regards. 
@@ -266,7 +266,7 @@ Yours sincerely,
 ```
 Dear Editors, 
 
-Thanks for the invitation and for your trust in me. 
+Thank you for the invitation and for your trust in me. 
 I am willing to help review the paper. 
 Please kindly send me the review materials. 
 Best regards. 
@@ -280,9 +280,9 @@ Yours sincerely,
 ```
 Dear Editors, 
 
-Thanks for the invitation and for your trust in me. 
+Thank you for the invitation and for your trust in me. 
 I am willing to serve as a board reviewer for your journal. 
-Should you need more of my information, such as a CV, please do not hesitate to contact me. 
+Should you need more information, such as a CV, please do not hesitate to contact me. 
 Best regards. 
 
 Yours sincerely, 
@@ -294,7 +294,7 @@ Yours sincerely,
 ```
 Dear Editors, 
 
-Thanks for the invitation and for your trust in me. 
+Thank you for the invitation and for your trust in me. 
 I am willing to serve as a board reviewer for your journal. 
 My CV is attached. 
 Please let me know whether it is suitable. 
@@ -310,7 +310,7 @@ Yours sincerely,
 Dear Editors, 
 
 Thank you so much for the review certificate. 
-The certificate looks nice and is well-stored. 
+The certificate looks nice and is well stored. 
 Looking forward to our next collaboration. 
 Best regards. 
 
@@ -332,7 +332,7 @@ The equations should be consistent with the context. In other words, each equati
 
 #### 公式中的等差数列列举时未写出规律中的前两项
 
-It is recommended to change the notations in the form of $1, \dots, n$ to $1, 2, \cdots, n$ in all equations. Listing the first two values before the ellipsis can make the arithmetic progression explicit and avoid any ambiguity about the step size, especially when the index starts from a value other than 1 or when the increment is not 1. Please update all the related notations in this paper. 
+It is recommended to change the notation to make it in the form of $1, \dots, n$ to $1, 2, \cdots, n$ in all equations. Listing the first two values before the ellipsis can make the arithmetic progression explicit and avoid any ambiguity about the step size, especially when the index starts from a value other than 1 or when the increment is not 1. Please update all the related notations in this paper. 
 
 #### 公式中首次出现的变量没有被解释
 
@@ -356,7 +356,7 @@ Please ensure that the brackets are large enough to enclose the entire fraction 
 
 #### 变量未以数学形式倾斜
 
-For symbols representing variables, they should be in mathematical italics. In other words, single-letter variables should be in italics, and variables containing multiple letters should be made in textual italics. 
+For symbols representing variables, they should be in mathematical italics. In other words, single-letter variables should be in italics, and variables containing multiple letters should be in textual italics. 
 
 #### 变量没有被正式定义
 
@@ -364,15 +364,15 @@ Variables are not defined in the standard academic form.
 
 #### 变量直接使用英文单词
 
-For variables consisting of multiple letters, please consider using a simple single-letter or single-Greek letter to represent them, with a number in the lower right corner to distinguish if necessary. Otherwise, please make the variables in text italics (using "\textit{}" in the mathematics environments in LaTeX). 
+For variables consisting of multiple letters, please consider using a simple single-letter or single-Greek letter to represent them, with a number in the lower right corner to distinguish if necessary. Otherwise, please make the variables in textual italics (using "\textit{}" in the mathematics environments in LaTeX). 
 
 #### 行内公式排版过于突兀
 
-The in-line equations are not properly formatted. When reading, they may be abrupt, which may affect the readers' experience. 
+The in-line equations are not properly formatted. When reading, they may be abrupt, which may affect the reader's experience. 
 
 #### 行间公式下接变量解释不规范
 
-If the variables in the equations are to be explained on the next line, the explanation should be preceded by the word "where" written at the beginning of the line without space characters and in lowercase. 
+If the variables in the equations are to be explained on the next line, the explanation should be preceded by the word "where" written at the beginning of the line without spaces and in lowercase. 
 
 #### 行间公式未居中
 
@@ -394,7 +394,7 @@ The figures are not clear enough. Please improve their quality and resolution. P
 
 #### 图中文字的字体与普通文本中文字的字体不一致
 
-The font families of the text in the figures should be changed to "Times New Roman", such that they can be aligned with the font family of the plain text. 
+The font families of the text in the figures should be changed to "Times New Roman" so that they can be aligned with the font family of the plain text. 
 
 #### 图使用了一条线的箭头
 
@@ -402,15 +402,15 @@ Using arrows whose body is a single line in figures is not formal in academic wr
 
 #### 图太抽象
 
-The figures are too abstract. Please optimize the figures to make them convey more exact information. 
+The figures are too abstract. Please optimize the figures to make them convey more precise information. 
 
 #### 图太过鲜艳
 
-The color matching of some figures is too sharp. Please use mild colors. 
+The color matching of some figures is too sharp. Please use milder colors. 
 
 #### 图序号非常混乱
 
-The figure order numbers are very messy. Please reorganize their order numbers to ensure they are continuously ascending and unique throughout the paper, and update the references to them in plain text accordingly. 
+The figure numbering is very messy. Please reorganize their order numbers to ensure they are continuously ascending and unique throughout the paper, and update the references to them in plain text accordingly. 
 
 #### 图是软件截图
 
@@ -418,19 +418,19 @@ Normally, screenshots of software are not allowed in academic writing.
 
 #### 图标题位置不正确
 
-A caption of a figure should be put after the figure body. 
+A caption of a figure should be placed after the figure body. 
 
 #### 图没有标题
 
-A caption should be offered after each figure. 
+A caption should be provided after each figure. 
 
 #### 图清晰但太小
 
-Some figures are in small sizes, which require readers to zoom in to view (though they are still clear after zooming in). Please enlarge their sizes. 
+Some figures are small, which requires readers to zoom in to view (though they are still clear after zooming in). Please enlarge them. 
 
 #### 图片脚注格式不正确
 
-The footnotes of the figures are not typeset well. Please directly explain the figures at the end of the captions of the figures. 
+The footnotes of the figures are not typeset well. Please explain the figures directly at the end of the figure captions. 
 
 #### 子图没有子标题
 
@@ -448,7 +448,7 @@ A caption for a figure and a table should either be a complete sentence or a nou
 
 ### 多媒体元素序号和标题之间没有冒号或句号
 
-Regarding the caption of each multimedia element, like figures, tables, equations, and algorithms, which consists of a number, a title, and a description, there should be a colon with a space character or a period with a space character between the number and the title. Taking a figure as a multimedia caption example, "Fig. 1: This is a figure. This proves that our proposed method is the optimal one. " is a good caption of a figure. In addition, the punctuation in the caption follows the same rules as the punctuation in the plain text. For example, a space character is required after a period and a colon before an English word can follow. 
+Regarding the caption of each multimedia element, such as figures, tables, equations, and algorithms, which consists of a number, a title, and a description, there should be a colon with a space character or a period with a space character between the number and the title. Taking a figure as a multimedia caption example, "Fig. 1: This is a figure. This proves that our proposed method is the optimal one. " is a good caption of a figure. In addition, the punctuation in the caption follows the same rules as the punctuation in the plain text. Additionally, a space character is required after a period or a colon before an English word can follow. 
 
 ### 多媒体元素应当尽可能放置在首次被提及的段落下方
 
@@ -478,11 +478,11 @@ Please make the algorithms editable. Using screenshots as algorithms is not allo
 
 #### 算法标题位置不正确
 
-A caption of an algorithm should be put between the first two lines of the algorithm. 
+A caption of an algorithm should be placed between the first two lines of the algorithm. 
 
 #### 算法没有标题
 
-A caption of an algorithm should be offered between the first two lines of the algorithm. 
+A caption of an algorithm should be placed between the first two lines of the algorithm. 
 
 #### 算法脚注格式不正确
 
@@ -512,13 +512,13 @@ The footnotes of the tables are not typeset well. Please ensure that all footnot
 
 #### 表没有标题
 
-A caption should be offered before each table. 
+A caption should be provided before each table. 
 
 ## 引用问题
 
 ### 参考文献仅涵盖近三年文献
 
-I appreciate that the authors have made a full investigation of the state-of-the-art research, where all the references cited were published in the last 3 years. However, I am concerned that the authors might have left out earlier classic literature. Therefore, I recommend that the authors cite some classic literature to briefly discuss the development of the research direction of this paper. 
+I appreciate that the authors have made a thorough investigation of the state-of-the-art research, and that all the references cited were published in the last 3 years. However, I am concerned that the authors might have left out earlier classic literature. Therefore, I recommend that the authors cite some classic literature to briefly discuss the development of the research direction of this paper. 
 
 ### 参考文献列表格式不统一
 
@@ -526,7 +526,7 @@ The styles of the references in the reference list are not uniform. Please use o
 
 ### 参考文献未正确区分大小写或使用了全大写
 
-Please check the cases of the letters in the author names, paper titles, and publication names in the reference list. 
+Please check the case of the letters in the author names, paper titles, and publication names in the reference list. 
 
 ### 参考文献过时
 
@@ -554,7 +554,7 @@ It is not recommended that authors cite papers indexed in journals under warning
 
 ### 文章有参考文献但未在正文显式引用
 
-While the paper has offered a reference list at the end of the paper, they are not cited in the text. The authors should cite all the references in the text, where their in-text views and statements that need to be supported can be supported by the references cited near them. 
+While the paper has offered a reference list at the end of the paper, the references are not cited in the text. The authors should cite all the references in the text, where their in-text views and statements that need to be supported can be supported by the references cited near them. 
 
 ### 期刊卷号与页码之间没有逗号
 
@@ -566,7 +566,7 @@ In English academic writing, when citing a work with three or more authors, it i
 
 ### 正文中引用记号不正确
 
-The in-text citation marks are not used correctly. Initially, the in-text citation marks should be placed right after the patterns that require being supported by one or more references, instead of always being placed at the end of the sentence. For example, the in-text citation marks can be placed right after the authors of the references. Always placing the in-text citation marks at the end of a sentence is a standard in writing Chinese academic papers, but violates the standard in writing international academic papers. Secondly, each in-text citation marker should be treated as an English word in typesetting. If an in-text citation marker has a word next to it on one side, there should be a space character between the word and it on that side. Thirdly, when there are three or more references with continuous numbers cited in the same place, it should start with the first number of the continuous numbers, followed by a hyphen, and followed by the last number of the continuous numbers. When there are multiple references with non-continuous numbers or two references (whether with or without continuous numbers) cited in the same place, the numbers of these references should be placed in the same square brackets and separated by a comma and space. For example, "There is evidence [1, 2, 4-8, 10, 16, 20-25, 32] proving this. " should be a correct example. 
+The in-text citation marks are not used correctly. Initially, the in-text citation marks should be placed right after the statements that require support from one or more references, instead of always being placed at the end of the sentence. For example, the in-text citation marks can be placed right after the authors of the references. Always placing the in-text citation marks at the end of a sentence is a standard in writing Chinese academic papers, but violates the standard in writing international academic papers. Secondly, each in-text citation marker should be treated as an English word in typesetting. If an in-text citation marker has a word next to it on one side, there should be a space character between the word and it on that side. Thirdly, when there are three or more references with continuous numbers cited in the same place, it should start with the first number of the continuous numbers, followed by a hyphen, and followed by the last number of the continuous numbers. When there are multiple references with non-continuous numbers or two references (whether with or without continuous numbers) cited in the same place, the numbers of these references should be placed in the same square brackets and separated by a comma and a space. For example, "There is evidence [1, 2, 4-8, 10, 16, 20-25, 32] proving this. " should be a correct example. 
 
 ## 排版问题
 
@@ -588,7 +588,7 @@ All the text shares the same font size in this paper, which can hardly convey a 
 
 ### 分号后未接小写字母
 
-The paper uses a lot of semicolons. Since there is still disagreement on the use of semicolons in academic papers, I have no comments on the large-scale usage of semicolons. However, the authors must ensure that the semicolon is followed by the next paragraph without a paragraph break, and the first letter of the semicolon must be lowercase.
+The paper uses a lot of semicolons. Since there is still disagreement on the use of semicolons in academic papers, I have no comments on the large-scale usage of semicolons. However, the authors must ensure that the semicolon is followed by the next paragraph without a paragraph break, and the first letter after the semicolon must be lowercase.
 
 ### 多段落排版不正确
 
@@ -600,7 +600,7 @@ Some quotation marks are straight, and some are curved. Please standardize the q
 
 ### 括号排版不正确
 
-Please always remember that any bracket (including but not limited to curly brackets, square brackets, parentheses, and equations enclosed by a pair of $) should be treated as a whole and typeset as a single word in the paper. Here are some examples. Hope they can benefit. 
+Please always remember that any bracket (including but not limited to curly brackets, square brackets, parentheses, and equations enclosed by a pair of $) should be treated as a whole and typeset as a single word in the paper. Here are some examples. Hope they can be helpful. 
 
 ```
 This is an orange(fruit). -> Incorrect
@@ -632,7 +632,7 @@ Except for "%", "℃", "°", and "$", a space character is required between nume
 
 ### 文本出现了多个空格字符
 
-There are two or more continuous space characters in the text. Please use one space character only. 
+There are two or more consecutive space characters in the text. Please use one space character only. 
 
 ### 文本应使用两端对齐而非左对齐
 
@@ -640,7 +640,7 @@ The text should be justified (aligned to both margins) rather than left-aligned.
 
 ### 文章字体导致文章难以阅读
 
-The font family used in this paper seriously affects readers' reading. Please consider changing the font family. It is recommended to use "Times New Roman" as the font family. 
+The font family used in this paper seriously affects readability. Please consider changing the font family. It is recommended to use "Times New Roman" as the font family. 
 
 ### 文章存在乱码字符
 
