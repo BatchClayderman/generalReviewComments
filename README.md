@@ -27,7 +27,7 @@ The current emails used for academic paper submission are informal. Please try t
 
 While the paper was sent for a double-blind peer review, it exposes the names and affiliations. If the authors want to show their names and affiliations in the paper, please select a journal or conference that supports single-blind peer review and select single-blind peer review during submission. 
 
-### 回复态度不认真
+### 返修提交态度不认真
 
 While I appreciate the revisions made by the authors, I would like to remind them of the point-to-point response to the reviewers. That is, each corresponding response should have more words than each comment for most comments. It will be more polite and better reflect the authors' serious attitude, compared with the situation where each response has fewer words than the corresponding comment for all comments. 
 
@@ -236,7 +236,7 @@ Dear Editors,
 
 Thanks for the invitation and for your trust in me. 
 The review is finished, and the report is attached. 
-I am willing to review the paper again if there is any future review. 
+I am willing to review the paper again if there is a future review. 
 By the way, I would appreciate it if I could have a review certificate. 
 Looking forward to our next collaboration. 
 Best regards. 
@@ -390,7 +390,7 @@ The Lena image is no longer recommended for use in academic experiments. Please 
 
 #### 图不清晰
 
-The figures are not clear enough. Please improve their quality and resolution. Please embed figures in the form of PDF or vector graphics, like EPS, if using LaTeX. 
+The figures are not clear enough. Please improve their quality and resolution. Please embed figures in the form of a PDF or vector graphics, like EPS, if using LaTeX. 
 
 #### 图中文字的字体与普通文本中文字的字体不一致
 
@@ -652,7 +652,7 @@ The paper uses curved quotation marks. However, the opening and closing quotatio
 
 ### 标点符号后面未加空格
 
-When a non-prefix punctuation symbol, such as a period, comma, semicolon, or colon, is followed by a word or letter, there should be and only should be one space character between the punctuation symbol and the following word or letter. 
+When a non-prefix punctuation symbol, such as a period, comma, semicolon, or colon, is followed by a word or letter, there should be, and only should be, one space character between the punctuation symbol and the following word or letter. 
 
 ### 返修高光字体颜色对人眼睛不友好
 
